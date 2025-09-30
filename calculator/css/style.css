@@ -1,0 +1,23 @@
+#answer{
+    width: 300px;
+    box-shadow: inset 5px 5px 3px grey,inset -5px -5px 3px white;
+}
+.calc{
+    background-color: rgb(200, 200, 200);
+    display: inline-block;
+    border-radius: 20px;
+}
+input{
+    font-size: 30px;
+    width: 70px;
+    height: 60px;
+    margin: 5px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 3px grey,-5px -5px 3px white;
+    background-color: rgb(200, 200, 200);
+    outline: none;
+}
+input:hover{
+    box-shadow: inset 5px 5px 3px grey,inset -5px -5px 3px white;
+}
